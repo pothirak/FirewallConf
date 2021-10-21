@@ -2,7 +2,7 @@
 
 **how to download**
 
-1. goto: https://github.com/pothirak/firewall-conf/releases
+1. goto: https://github.com/pothirak/FirewallConf/releases
 2. download file FirewallConf.cmd
 
 
